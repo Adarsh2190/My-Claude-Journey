@@ -1,5 +1,10 @@
 [Career_roadmap.pdf](https://github.com/user-attachments/files/28694860/Career_roadmap.pdf)
 
+<img width="1920" height="1080" alt="Screenshot from 2026-06-08 11-08-03" src="https://github.com/user-attachments/assets/823cf256-f5bc-4378-bf24-fe14c82d2033" />
+
+
+
+
 
 **🤖 AI Prompting**
 You learned how to write a powerful **role-based system prompt** — by telling Claude *"You are an Elite AI Career Strategist"*, you got a much more structured and expert response than a plain question would give.
